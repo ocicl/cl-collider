@@ -1,0 +1,9 @@
+* cl-collider
+
+A SuperCollider client for CommonLisp
+
+|---------+--------------------------------------------------|
+| source  | git:https://github.com/byulparan/cl-collider.git |
+| commit  | ddea9a7                                          |
+| systems | cl-collider                                      |
+|---------+--------------------------------------------------|
