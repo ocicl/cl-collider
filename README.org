@@ -4,6 +4,6 @@ A SuperCollider client for CommonLisp
 
 |---------+--------------------------------------------------|
 | source  | git:https://github.com/byulparan/cl-collider.git |
-| commit  | 72b506d                                          |
+| commit  | 928dbbf                                          |
 | systems | cl-collider                                      |
 |---------+--------------------------------------------------|
